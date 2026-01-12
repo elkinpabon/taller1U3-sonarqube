@@ -1,0 +1,6 @@
+projectKey=taller1-backend
+serverUrl=http://localhost:9000
+serverVersion=25.11.0.114957
+dashboardUrl=http://localhost:9000/dashboard?id=taller1-backend
+ceTaskId=ccb7355d-a754-4993-b383-865a8a12d2ab
+ceTaskUrl=http://localhost:9000/api/ce/task?id=ccb7355d-a754-4993-b383-865a8a12d2ab
